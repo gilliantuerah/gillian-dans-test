@@ -16,11 +16,15 @@ npm start
 npm install
 npm start
 ```
-
-## Libraries that used
+## Loginable User
+username: gilliantuerah
+password: pass
+## Libraries that are used
 | Library | README |
 | ------- | ------ |
 | ExpressJS | https://expressjs.com/ |
 | ReactJS | https://reactjs.org/ |
 | Material UI | https://material-ui.com/ |
 
+## Author
+Felicia Gillian Tekad Tuerah
