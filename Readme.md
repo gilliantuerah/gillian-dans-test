@@ -26,5 +26,15 @@ password: pass
 | ReactJS | https://reactjs.org/ |
 | Material UI | https://material-ui.com/ |
 
+## Application
+1. **Login Page**
+![login](./Img/login.PNG)
+2. **Job List**
+![Job List](./Img/jobs.png)
+3. **Tampilan Join**
+![Job Detail](./Img/detail1.png)
+
+![Job Detail](./Img/detail2.png)
+
 ## Author
 Felicia Gillian Tekad Tuerah
