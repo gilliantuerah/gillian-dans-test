@@ -30,11 +30,11 @@ password: pass
 1. **Login Page**
 ![login](./Img/login.PNG)
 2. **Job List**
-![Job List](./Img/jobs.png)
+![Job List](./Img/jobs.PNG)
 3. **Tampilan Join**
-![Job Detail](./Img/detail1.png)
+![Job Detail](./Img/detail1.PNG)
 
-![Job Detail](./Img/detail2.png)
+![Job Detail](./Img/detail2.PNG)
 
 ## Author
 Felicia Gillian Tekad Tuerah
